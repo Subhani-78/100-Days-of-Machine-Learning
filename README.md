@@ -1,7 +1,7 @@
 # 🦉 100 Days of Machine Learning 🦉
 ## This repository holds important Machine Learning algorithms & related projects. <br>
 ### Algorithm List <br>
-* #### <a href=""> Linear Regression 🦘</a><br>
+* #### <a href="https://github.com/Subhani-78/100-Days-of-Machine-Learning/tree/main/Linear%20Regression%20%F0%9F%90%B6"> Linear Regression 🦘</a><br>
 
 ## Previous 🐙
 #### <a href="https://github.com/Subhani-78/100-Days-of-EDA">100 Days of EDA 🐍</a>
